@@ -11,7 +11,7 @@
   $contact_email_to = "will_constable@msn.com";
 
   // Title prefixes
-  $subject_title = "Contat Form Message:";
+  $subject_title = "Contact Form Message:";
   $name_title = "Name:";
   $email_title = "Email:";
   $message_title = "Message:";
